@@ -1,0 +1,2 @@
+# Day-1--Hitman-absolution--Ghufron-abdullah-afifi
+Workshop Day 1 membahas Prompt Engineering, Git, dan GitHub. Saya belajar menyusun prompt dengan Role, Task, Context, dan Format agar hasil AI lebih sesuai. Saya memahami Git untuk mencatat perubahan dan GitHub untuk menyimpan repository online. Materi ini menjadi dasar mengembangkan Student Task Planner. Menurut saya, AI dan Git saling melengkapi.
